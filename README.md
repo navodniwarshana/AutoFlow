@@ -18,14 +18,6 @@ A comprehensive view of all active users with real-time management capabilities.
 <br>
 <img src="screenshots/dashboard.png" width="800" alt="Dashboard Screen">
 
-### 🔐 Secure Authentication
-
-The login system ensures only authorized users can access the dashboard, featuring a clean, glassmorphic UI.
-
-### 📊 Administrative Dashboard
-
-A comprehensive view of all active users with real-time management capabilities.
-
 ---
 
 ## ✨ Core Features
