@@ -9,6 +9,16 @@ AutoFlow is a modern, responsive User Management System built with a **Spring Bo
 ## 📸 Interface Preview
 
 ### 🔐 Secure Authentication
+The login system ensures only authorized users can access the dashboard, featuring a clean, glassmorphic UI.
+<br>
+<img src="screenshots/login.png" width="800" alt="Login Screen">
+
+### 📊 Administrative Dashboard
+A comprehensive view of all active users with real-time management capabilities.
+<br>
+<img src="screenshots/dashboard.png" width="800" alt="Dashboard Screen">
+
+### 🔐 Secure Authentication
 
 The login system ensures only authorized users can access the dashboard, featuring a clean, glassmorphic UI.
 
